@@ -174,7 +174,7 @@ dialog::backdrop{background:rgba(5,3,20,.65);backdrop-filter:blur(4px)}
 
 <script>
 // ➜ Colle ici le lien de téléchargement de LXM-Setup.exe (GitHub Releases, Google Drive, ton hébergeur…)
-const DOWNLOAD_URL = "https://github.com/rogertradebrainrot-web/lxmvoicegratuit/releases/latest/download/LXM-Setup.exe";
+const DOWNLOAD_URL = "https://github.com/rogertradebrainrot-web/lxmvoicegratuit/releases/download/free/LXM-Setup.exe";
 
 const $ = id => document.getElementById(id);
 const dl = $('dl'), ok = $('ok'), terms = $('terms');
